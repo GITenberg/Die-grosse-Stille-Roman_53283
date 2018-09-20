@@ -1,6 +1,9 @@
 _repo: Die-grosse-Stille-Roman_53283
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'Die grosse Stille: Roman'
+covers:
+- cover_type: archival
+  image_path: 53283-h/images/cover.jpg
 creator:
   author:
     agent_name: Lilienfein, Heinrich
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47303'
     url: http://www.gutenberg.org/2009/agents/47303
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53283#Die-grosse-Stille-Roman
 gutenberg_issued: '2016-10-15'
 gutenberg_type: Text
 identifiers:
