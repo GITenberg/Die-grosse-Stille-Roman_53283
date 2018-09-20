@@ -1,0 +1,25 @@
+_repo: Die-grosse-Stille-Roman_53283
+_version: 0.0.1
+alternative_title: 'Die grosse Stille: Roman'
+creator:
+  author:
+    agent_name: Lilienfein, Heinrich
+    birthdate: 1879
+    deathdate: 1952
+    gutenberg_agent_id: '47303'
+    url: http://www.gutenberg.org/2009/agents/47303
+description: ''
+gutenberg_issued: '2016-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53283'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Die große Stille: Roman'
+url: http://www.gutenberg.org/ebooks/53283
